@@ -13,6 +13,10 @@ hr {
   margin: 0;
 }
 
+p {
+  margin-bottom: 10px;
+}
+
 body {
   padding-left: 40px;
   padding-right: 40px;
