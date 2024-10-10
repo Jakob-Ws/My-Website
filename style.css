@@ -28,9 +28,12 @@ nav a {
   color: #000;
   padding: 0 1.5rem;
 }
+.post{
+  padding-left:10px;
+  padding-right:10px;
+}
 
 .post .title {
-  font-size:16px;
   font-weight:bold;
   margin-bottom:10px;
   padding-left:10px;
@@ -38,7 +41,3 @@ nav a {
 .post .date {
   margin-bottom:10px;
 }
-.right {
-  margin-left:10px;
-  background-color:var(--content-bg);
-  padding:var(--content-padding);
