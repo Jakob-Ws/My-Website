@@ -36,3 +36,7 @@ nav a {
 .post .date {
   margin-bottom:10px;
 }
+.right {
+  margin-left:10px;
+  background-color:var(--content-bg);
+  padding:var(--content-padding);
