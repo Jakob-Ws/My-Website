@@ -28,6 +28,7 @@ body {
 
 ul, ol {
   padding-left: 40px;
+  text-decoration: none;
 }
 
 a {
